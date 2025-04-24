@@ -1,2 +1,3 @@
-# ytre_oslofjord
-Data and analysis for the Ytre Oslofjord project
+# Ytre Oslofjord
+
+Data and analysis for the Ytre Oslofjord project.
